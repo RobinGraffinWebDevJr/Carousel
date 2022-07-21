@@ -117,7 +117,7 @@ CAROUSEL
 }
 
 .carousel__pagination__button {
-  background-color: #fff;
+  background-color: #FFF;
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -131,7 +131,6 @@ CAROUSEL
 .carousel__pagination__button--active, .carousel__pagination__button:hover {
   transform: scale(1.4);
 }
-
 @media screen and (min-width: 800px) {
   .carousel__pagination {
     display: block;
